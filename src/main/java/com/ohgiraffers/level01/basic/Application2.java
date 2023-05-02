@@ -13,7 +13,7 @@ public class Application2 {
 		 * 둘레 : 97.8
 		 *  */
 
-		//풀었음ㅇㅇ
+		//풀었음ㅇㅇㅇㅇㅇ
 	}
 
 }
