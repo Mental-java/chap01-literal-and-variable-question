@@ -14,7 +14,13 @@ public class Application1 {
 		 * 나누기한 몫 : 0
 		 * 나누기한 나머지 : 20
 		 * */
-		System.out.println("dongyoung");
+		int dong = 20;
+		int young = 30;
+		System.out.println("20 + 30 : " + (int) (dong + young));
+		System.out.println("20 - 30 : " + (int) (dong - young));
+		System.out.println("20 x 30 : " + (int) (dong * young));
+		System.out.println("20 / 30 : " + (int) (dong / young));
+		System.out.println("20 % 30 : " + (int) (dong % young));
 	}
 
 }
